@@ -1,9 +1,9 @@
 <?php
 
 /*
- * This file is part of the pinepain/php-weak PHP extension.
+ * This file is part of the pinepain/php-ref PHP extension.
  *
- * Copyright (c) 2016 Bogdan Padalko <zaq178miami@gmail.com>
+ * Copyright (c) 2016 Bogdan Padalko <pinepain@gmail.com>
  *
  * Licensed under the MIT license: http://opensource.org/licenses/MIT
  *
@@ -12,7 +12,7 @@
  */
 
 
-namespace Weak;
+namespace Ref;
 
 /**
  * Check whether value is refcounted
