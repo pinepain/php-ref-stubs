@@ -1,3 +1,8 @@
+WARNING: This project is UNSUPPORTED and ABANDONED
+==================================================
+
+I'm moving away from PHP world and all my PHP projects going to be abandoned too. Abandoning this project too as I have no intent to continue working on it unless there would be strong request from community and commercial interest. No more updates or documentation will be made. If someone is interested, feels free to contact me using email specified in my GitHub profile.
+
 # Stub files for [php-ref](https://github.com/pinepain/php-ref) PHP extension
 
 This is a git subtree split of [php-ref](https://github.com/pinepain/php-ref) extension stub files.
